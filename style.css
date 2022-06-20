@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: azure;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #2a2a2a;
+}
+
+.nav ul {
+    margin: 0;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    background: #222;
+    color: lightcoral;
+}
+
+.top-nav {
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px solid lightskyblue;
+}
+
+.main-header {
+    background: #222222;
+    box-sizing: border-;
+    padding: 32px;
+}
+
+.Nice {
+    font-weight: normal;
+    text-align: left;
+    font-size: 2.5em;
+}
+
+.General-About {
+    background: #2a2a2a;
+    margin:  1em;
+    font-size: 2em;
+}
+
+.About-Text {
+    font-weight: normal;
+    text-align: left;
+    font-size: 2em;
+    padding: 1;
+}
+
+.Container {
+    max-width: auto;
+    margin: 0 auto;
+    padding: 0 1.5em;
+
+}
+
+.main-footer {
+    background: #222222;
+    box-sizing: border-;
+    padding: 32px;
+}
+
+.Text-Para {
+    padding-left: 3em;
+}
+
+.project {
+
+    padding-top: 12px;
+    padding-bottom: 18px;
+    margin: 12px 0;
+    border-bottom: 1px solid #444;
+}
+
+.project-title {
+    border: 0;
+    font-size: 30px;
+    margin: 0;
+      margin-right: 0px;
+    margin-right: 18px;
+    padding: 0;
+    display: inline-block;
+}
